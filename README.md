@@ -4,44 +4,50 @@
   <img src="assets/GitHub.png" width="100%">
 </p>
 
----
+<h1 align="center">Olá, eu sou Yasmin 👋</h1>
 
-# 👋 Olá, eu sou Yasmin
+<p align="center">
+💻 Estudante de Engenharia de Software • 🐍 Backend em formação • 📚 Sempre aprendendo
+</p>
+
+---
 
 <table>
 <tr>
 
-<td width="35%" align="center">
+<td width="30%" align="center">
 
 <img src="assets/1.png" width="220">
 
-### 📌 Sobre mim
+### 👩🏻‍💻 Sobre mim
 
-🎓 Estudante de Engenharia de Software
+🎓 Engenharia de Software
 
-🐍 Aprendendo Python
+🐍 Python
 
-📊 Estudando SQL
+🗄️ SQL
 
-📈 Power BI
+📊 Power BI
+
+🌱 Aprendendo todos os dias
 
 </td>
 
-<td width="65%">
+<td width="70%">
 
-## 💻 Sobre
+## 📖 Sobre
 
-Sou estudante de Engenharia de Software apaixonada por desenvolvimento backend.
+Sou estudante de **Engenharia de Software**, apaixonada por tecnologia e desenvolvimento backend.
 
-Atualmente estou focada em:
+Atualmente meus estudos estão focados em:
 
-- Python
-- SQL
-- Git e GitHub
-- Power BI
-- Lógica de Programação
+- 🐍 Python
+- 🗄️ SQL & SQLite
+- 🌐 Git e GitHub
+- 📊 Power BI
+- 💡 Lógica de Programação
 
-Meu objetivo é construir projetos que demonstrem minha evolução como desenvolvedora.
+Meu objetivo é conquistar uma oportunidade como desenvolvedora e construir projetos que demonstrem minha evolução.
 
 </td>
 
@@ -50,10 +56,10 @@ Meu objetivo é construir projetos que demonstrem minha evolução como desenvol
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,figma,vscode,powershell" />
 </p>
 
 ---
@@ -63,21 +69,25 @@ Meu objetivo é construir projetos que demonstrem minha evolução como desenvol
 
 <td width="70%">
 
-## 📂 Projetos
+# 📂 Projetos
 
 ✔ SmartClinic
 
 ✔ Exercícios de Python
 
-✔ Estudos de SQL
+✔ Estudos SQL
 
 ✔ Power BI
+
+✔ Git e GitHub
+
+✔ Projetos pessoais
 
 </td>
 
 <td align="center">
 
-<img src="assets/2.png" width="170">
+<img src="assets/2.png" width="180">
 
 </td>
 
@@ -86,11 +96,11 @@ Meu objetivo é construir projetos que demonstrem minha evolução como desenvol
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yasmacx&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yasmacx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmacx&layout=compact&theme=github_dark"/>
 
@@ -98,20 +108,38 @@ Meu objetivo é construir projetos que demonstrem minha evolução como desenvol
 
 ---
 
-## 📬 Contato
+# 📈 Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasmacx&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📫 Contato
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/yasmin-macena-yasmacx/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:yasmacx@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/yasmacx/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Cada commit representa um passo na minha evolução como desenvolvedora."*
 
 </p>
