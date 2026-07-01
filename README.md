@@ -17,7 +17,7 @@
 
 <td width="30%" align="center">
 
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/8c6213af-087e-4bd3-a216-60e711f6d236" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/fc271641-8f09-4294-a045-a4b3b2051499" />
 
 ### 👩🏻‍💻 Sobre mim
 
