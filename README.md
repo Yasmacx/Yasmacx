@@ -67,15 +67,15 @@ Atualmente meus estudos estão focados em:
 
 #  Projetos
 
-✔ SmartClinic
+• SmartClinic
 
-✔ Exercícios de Python
+• Exercícios de Python
 
-✔ Estudos SQL
+• Estudos SQL
 
-✔ Git e GitHub
+• Git e GitHub
 
-✔ Projetos pessoais
+• Projetos pessoais
 
 </td>
 
