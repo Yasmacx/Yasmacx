@@ -54,12 +54,11 @@ Atualmente meus estudos estão focados em:
 
 ---
 
-#  Tecnologias
+## Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,figma,vscode,powershell,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,figma,vscode,pycharm" />
 </p>
-
 ---
 
 <table>
@@ -102,7 +101,7 @@ Atualmente meus estudos estão focados em:
 
 ---
 
-# 📫 Contato
+#  Contato
 
 <p align="center">
 
