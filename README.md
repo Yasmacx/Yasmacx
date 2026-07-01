@@ -4,7 +4,7 @@
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9dc79b4b-19c2-4879-9704-a87c36e3fe03" />
 </p>
 
-<h1 align="center">Olá, eu sou Yasmin 👋</h1>
+<h1 align="center">Olá, eu sou Yasmin </h1>
 
 <p align="center">
 💻 Estudante de Engenharia de Software • 🐍 Backend em formação • 📚 Sempre aprendendo
@@ -17,37 +17,33 @@
 
 <td width="30%" align="center">
 
-<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/fc271641-8f09-4294-a045-a4b3b2051499" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/fc271641-8f09-4294-a045-a4b3b2051499" />
 
-### 👩🏻‍💻 Sobre mim
+#  Sobre mim
 
-🎓 Engenharia de Software
+Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenvolvimento Back-End utilizando Python. Busco uma oportunidade de estágio para aplicar meus conhecimentos acadêmicos e evoluir tecnicamente em um ambiente profissional e inovador.
 
-🐍 Python
-
-🗄️ SQL
-
-📊 Power BI
-
-🌱 Aprendendo todos os dias
 
 </td>
 
 <td width="70%">
 
-## 📖 Sobre
-
-Sou estudante de **Engenharia de Software**, apaixonada por tecnologia e desenvolvimento backend.
+# Habilidades
 
 Atualmente meus estudos estão focados em:
 
-- 🐍 Python
-- 🗄️ SQL & SQLite
-- 🌐 Git e GitHub
-- 📊 Power BI
-- 💡 Lógica de Programação
+• Python
 
-Meu objetivo é conquistar uma oportunidade como desenvolvedora e construir projetos que demonstrem minha evolução.
+• Desenvolvimento
+
+• Arquitetura de Sistema
+
+• SQL & SQLite
+
+• Git e GitHub
+
+• Lógica de Programação
+
 
 </td>
 
@@ -56,7 +52,7 @@ Meu objetivo é conquistar uma oportunidade como desenvolvedora e construir proj
 
 ---
 
-# 🚀 Tecnologias
+#  Tecnologias
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,figma,vscode,powershell" />
@@ -69,15 +65,13 @@ Meu objetivo é conquistar uma oportunidade como desenvolvedora e construir proj
 
 <td width="70%">
 
-# 📂 Projetos
+#  Projetos
 
 ✔ SmartClinic
 
 ✔ Exercícios de Python
 
 ✔ Estudos SQL
-
-✔ Power BI
 
 ✔ Git e GitHub
 
@@ -87,7 +81,7 @@ Meu objetivo é conquistar uma oportunidade como desenvolvedora e construir proj
 
 <td align="center">
 
-<img src="assets/2.png" width="180">
+<img width="900" height="900" alt="Image" src="https://github.com/user-attachments/assets/1363e13a-a530-4f86-85d0-9fa0ce732807" />
 
 </td>
 
@@ -96,19 +90,7 @@ Meu objetivo é conquistar uma oportunidade como desenvolvedora e construir proj
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yasmacx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmacx&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 📈 Contribuições
+#  Contribuições
 
 <p align="center">
 
