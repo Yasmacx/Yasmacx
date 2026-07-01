@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="assets/GitHub.png" width="100%">
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 <td width="35%" align="center">
 
-<img src="assets/foto.png" width="220">
+<img src="assets/1.png" width="220">
 
 ### 📌 Sobre mim
 
@@ -77,7 +77,7 @@ Meu objetivo é construir projetos que demonstrem minha evolução como desenvol
 
 <td align="center">
 
-<img src="assets/python.png" width="170">
+<img src="assets/2.png" width="170">
 
 </td>
 
