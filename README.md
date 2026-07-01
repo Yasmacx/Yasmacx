@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="assets/GitHub.png" width="100%">
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9dc79b4b-19c2-4879-9704-a87c36e3fe03" />
 </p>
 
 <h1 align="center">Olá, eu sou Yasmin 👋</h1>
@@ -17,7 +17,7 @@
 
 <td width="30%" align="center">
 
-<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/fc271641-8f09-4294-a045-a4b3b2051499" />
+<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/fc271641-8f09-4294-a045-a4b3b2051499" />
 
 ### 👩🏻‍💻 Sobre mim
 
