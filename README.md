@@ -28,6 +28,8 @@ Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenv
 
 <td width="70%">
 
+<img width="800" height="200" alt="Image" src="https://github.com/user-attachments/assets/eda8efad-0675-4451-8637-d15a293a5240" />
+
 # Habilidades
 
 Atualmente meus estudos estão focados em:
