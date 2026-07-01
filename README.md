@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9dc79b4b-19c2-4879-9704-a87c36e3fe03" />
+  <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/9dc79b4b-19c2-4879-9704-a87c36e3fe03" />
 </p>
 
 <h1 align="center">Olá, eu sou Yasmin </h1>
