@@ -4,7 +4,27 @@
 <img width="1200" height="480" alt="Image" src="https://github.com/user-attachments/assets/11e8655c-b97b-4702-9392-6c0ac9e5dc47" />
 </p>
 
-<h1 align="center">Olá, eu sou Yasmin </h1>
+---
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yasmin-macena-yasmacx/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:yasmacx@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/yasmacx/">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<h1 align="center">Oi, eu sou Yasmin </h1>
 
 <p align="center">
 💻 Estudante de Engenharia de Software • 🐍 Backend em formação • 📚 Sempre aprendendo
@@ -21,7 +41,7 @@
 
 #  Sobre mim
 
-Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenvolvimento Back-End utilizando Python. Busco uma oportunidade de estágio para aplicar meus conhecimentos acadêmicos e evoluir tecnicamente em um ambiente profissional e inovador.
+Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenvolvimento Back-End utilizando Python e Banco de dados com SQLite Online. Busco uma oportunidade de estágio para aplicar meus conhecimentos acadêmicos e evoluir tecnicamente em um ambiente profissional e inovador.
 
 
 </td>
@@ -101,28 +121,8 @@ Atualmente meus estudos estão focados em:
 
 ---
 
-#  Contato
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yasmin-macena-yasmacx/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:yasmacx@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/yasmacx/">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> *"Cada commit representa um passo na minha evolução como desenvolvedora."*
+> *"Cada commit representa um passo na minha evolução."*
 
 </p>
