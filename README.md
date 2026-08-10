@@ -41,7 +41,7 @@
 
 #  Sobre mim
 
-Sou estudante do 1º semestre de Engenharia de Software, com interesse em desenvolvimento Back-End utilizando Python e Banco de dados com SQLite Online. Busco uma oportunidade de estágio para aplicar meus conhecimentos acadêmicos e evoluir tecnicamente em um ambiente profissional e inovador.
+Sou estudante de Engenharia de Software (2º semestre) na Universidade Cruzeiro do Sul, com foco em Back-End Python. Tenho base em lógica de programação, SQL com SQLite, e estou aprofundando conhecimentos em POO e APIs REST e frameworks como Django para melhorar meus projetos em python.
 
 
 </td>
@@ -88,13 +88,11 @@ Atualmente meus estudos estão focados em:
 
 #  Projetos
 
-• SmartClinic
+• Sabor Express
 
 • Exercícios de Python
 
 • Estudos SQL
-
-• Git e GitHub
 
 • Projetos pessoais
 
