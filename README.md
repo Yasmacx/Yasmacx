@@ -56,16 +56,15 @@ Atualmente meus estudos estão focados em:
 
 • Python
 
-• Desenvolvimento
-
-• Arquitetura de Sistema
-
 • SQL & SQLite
 
 • Git e GitHub
 
 • Lógica de Programação
 
+• HTML 
+
+• C
 
 </td>
 
@@ -77,9 +76,9 @@ Atualmente meus estudos estão focados em:
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,figma,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,figma,vscode,pycharm,html,c" />
 </p>
----
+
 
 <table>
 <tr>
