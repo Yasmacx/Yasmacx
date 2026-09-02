@@ -112,7 +112,7 @@ Atualmente meus estudos estão focados em:
 
 <p align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Yasmacx=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmacx&layout=compact&theme=dark)
 
 </p>
 
