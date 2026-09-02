@@ -76,7 +76,7 @@ Atualmente meus estudos estão focados em:
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,figma,vscode,pycharm,html,c" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,sqlite,git,github,figma" />
 </p>
 
 
