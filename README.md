@@ -112,7 +112,7 @@ Atualmente meus estudos estão focados em:
 
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmacx&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmacx&layout=compact)
 
 </p>
 
