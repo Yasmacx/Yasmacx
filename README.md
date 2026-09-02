@@ -112,7 +112,6 @@ Atualmente meus estudos estão focados em:
 
 <p align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=5&theme=dark)
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=5&theme=dark">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=5&theme=dark" alt="GitHub Stats" />
