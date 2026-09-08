@@ -58,13 +58,13 @@ Atualmente meus estudos estão focados em:
 
 • SQL & SQLite
 
-• Git e GitHub
-
-• Lógica de Programação
-
-• HTML 
-
 • C
+
+• Backend
+
+• HTML & CSS
+
+• Lógica de programação
 
 </td>
 
