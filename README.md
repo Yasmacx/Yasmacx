@@ -110,23 +110,19 @@ Atualmente meus estudos estão focados em:
 
 #  Contribuições
 
-<p align="center">
+<p align="center"> <table width="100%"> <tr> <td align="left" valign="middle"> <img src="https://github.com/user-attachments/assets/63f59233-9f45-491e-b127-6716bca99948" alt="Imagem" width="300" height="200" /> </td>
 
-<p align="center">
-  <table width="100%">
-    <tr>
-      <td align="left" valign="middle">
-        <img src="https://github.com/user-attachments/assets/63f59233-9f45-491e-b127-6716bca99948" alt="Imagem" width="300" height="200" style="object-fit: cover;" />
-      </td>
-      <td align="right" valign="middle">
-[        <a href="[https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=5&theme=dark"](https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=4&theme=dark)>
-](https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=4&theme=dark)          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=5&theme=dark" alt="GitHub Stats" width="300" height="200" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+  <td align="right" valign="middle">
+    <img 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=4&theme=dark" 
+      alt="GitHub Stats" 
+      width="300" 
+      height="200"
+    />
+  </td>
+</tr>
 
+</table> </p>
 ---
 
 <p align="center">
