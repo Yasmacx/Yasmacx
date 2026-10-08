@@ -41,7 +41,8 @@
 
 #  Sobre mim
 
-Sou estudante de Engenharia de Software (2º semestre) na Universidade Cruzeiro do Sul, com foco em Back-End Python. Tenho base em lógica de programação, SQL com SQLite, e estou aprofundando conhecimentos em POO e APIs REST e frameworks como Django para melhorar meus projetos em python.
+Sou estudante de Engenharia de Software (2º semestre) na Universidade Cruzeiro do Sul. Tenho base em lógica de programação, Backend em Python e C, Banco de dados de SQL com SQLite, MySQL e Excel, Frontend com HTTML, CSS e Figma, e estou aprofundando conhecimentos em POO e APIs REST e frameworks como Django para melhorar meus projetos em python. Meu objetivo é atuar em posição de Júnior/ Estágio em Desenvolvimento Full-Stack / Backend ou Dados e Automação, contribuindo com suporte técnico, desenvolvimento, análise de dados e melhoria de processos.
+
 
 
 </td>
@@ -56,13 +57,13 @@ Atualmente meus estudos estão focados em:
 
 • Python
 
-• SQL & SQLite
-
 • C
 
-• Backend
+• SQL com SQLite, MySQL e Excel
 
-• HTML & CSS
+• HTML, CSS e Figma
+
+• API's
 
 • Lógica de programação
 
@@ -76,7 +77,7 @@ Atualmente meus estudos estão focados em:
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,sqlite,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,sqlite,mysql,git,github,figma" />
 </p>
 
 
@@ -89,11 +90,11 @@ Atualmente meus estudos estão focados em:
 
 • Sabor Express
 
-• Exercícios de Python
+• SmartClinic
 
-• Estudos SQL
+• Estudos SQL, backend e frontend
 
-• Projetos pessoais
+• Projetos pessoais com problemas reais
 
 </td>
 
