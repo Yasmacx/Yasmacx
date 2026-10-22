@@ -115,7 +115,7 @@ Atualmente meus estudos estão focados em:
 
   <td align="right" valign="middle">
     <img 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=4&theme=dark" 
+      src="[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Yasmacx&langs_count=6&theme=dark)" 
       alt="GitHub Stats" 
       width="300" 
       height="200"
